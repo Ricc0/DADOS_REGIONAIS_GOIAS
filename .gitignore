@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+# Bases brutas do DATASUS (778 MB) - baixar novamente pelo pipeline
+Dados/
+# PDF de terceiros (17 MB)
+livro_verde_*.pdf
+.DS_Store
+Thumbs.db
